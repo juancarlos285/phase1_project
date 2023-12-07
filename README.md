@@ -21,7 +21,8 @@ What we are able to see is that commercial airplanes are much safer than private
 
 We noticed that, in general, the amount of accidents is proportional to the population of the states. However, among the most populous states, we find some interesting differences of number of accidents as well as fatality percentage. Considering that New York and Florida have a similar population, New York records considerably less accidents and with a lower fatality percentage. Also, Illinois having in Chicago one of the busiest airports in the world, records one of the lowest fatality percentages in the United States and a fairly low number of accidents considering its population. On the other hand, less populated states that rely a lot on smaller airplanes, showed some of the highest fatality percentages. Since our data indicates that big commercial airplanes are the safest option, it would be better to avoid these states. 
 
-<img src="Images/accidents_map.jpg" alt="injury_distribution" width="400" height="275"/>
+<img src="Images/accidents_map.jpg" alt="accidents_map" width="500" height="300"/>
+<img src="Images/map_legend.jpg" alt="map_legend" width="150" height="150"/>
 
 One interesting data point is the state of Alaska. It reports a high number of accidents for its population. Nevertheless, the fatality percentage is not really high. More exploration would be needed, but considering the available data, it is an interesting market that flies a lot and may be in need of more airplane routes.
 
