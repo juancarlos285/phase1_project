@@ -9,7 +9,7 @@ aircraft damage, as well as locational data.
 
 Our dataset is concentrated in the US, so our analysis focuses on this market. Since the overwhelming majority of records show airplanes, we picked this type of aircraft to analyze in more detail.
 
-![Injury Distribution](Images/injury_distribution.jpg)
+<img src="Images/injury_distribution.jpg" alt="injury_distribution" width="200"/>
 
 Overall, flying is a very safe activity. Based on our findings, most airplane accidents result in the majority of people uninjured. But ideally, we want to hold human safety to the highest standard. To determine the safest planes, we analyzed which ones report the lowest fatality rate. We first split them into small and large airplanes, decide which one is safer, and then we find which models and makes within these two categories are better.
 
